@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Chinmay has deployed this app on AWS using AWS Amplify service</p>
         <a
           className="App-link"
           href="https://reactjs.org"
